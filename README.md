@@ -3,8 +3,8 @@
 ## Introdução
 
 
-<div align="left">
-<img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/c4b33c18-baea-4a21-8a5e-bdc0ffc3586a" width="200px" />
+<div align="center">
+<img src="./Img/foto.png" width="200px" />
 </div>
 
 
@@ -17,7 +17,7 @@
 
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ramos-ribeiro-320621226/)   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJlFmSNcXWmMzwLLCjRbVCrnVFRHNNmhDMhrqvBnDfJJKXnClmnbJnjrCLdFxkVSJXxXWnV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ramos-ribeiro-320621226/) 
 
 
 ## Meus Principais Conhecimentos

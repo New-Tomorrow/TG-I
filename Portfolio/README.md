@@ -28,13 +28,13 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 ## Tecnologias Utilizadas
 
 
-|<img src="https://skillicons.dev/icons?i=py,dark" width="300px" align="right" /> | Python: Linguagem de programação de alto nível conhecida por sua sintaxe legível e versatilidade. É amplamente usado em desenvolvimento de software, ciência de dados e automação devido à sua vasta biblioteca padrão e comunidade ativa, utilizada para a criação do código, na parte de clonagem e raspagem. |
+| <img src="../Img/Python-Dark.svg" width="250">     | Python: Linguagem de programação de alto nível conhecida por sua sintaxe legível e versatilidade. É amplamente usado em desenvolvimento de software, ciência de dados e automação devido à sua vasta biblioteca padrão e comunidade ativa, utilizada para a criação do código, na parte de clonagem e raspagem. |
 | :---: | :--- |
-|<img src="https://skillicons.dev/icons?i=js,dark" width="300px" align="right" />|JavaScript: Também é uma linguagem de alto nível desempenha um papel crucial na criação de interatividade em páginas da web, permitindo a manipulação dinâmica do conteúdo e o controle do comportamento das páginas no navegador do usuário. Foi utilizada para desenvolver o site.|
-|<img src="https://skillicons.dev/icons?i=html,dark" width="300px" align="right"  />|HTML: HyperText Markup Language é uma linguagem de marcação, ele permite inserir o conteúdo e estabelecer a estrutura básica de um website.|| 
-|<img src="https://skillicons.dev/icons?i=css,dark" width="300px" align="right" />|CSS: Cascading Style Sheets é uma linguagem de estilo utilizada em conjunto com HTML para controlar a aparência e o design de páginas da web. Ele permite definir estilos, como cores, fontes, margens e tamanhos.|
-|<img src="https://skillicons.dev/icons?i=git,dark" width="300px" align="right" />|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
-|<img src="https://skillicons.dev/icons?i=github,dark" width="300px" align="right" />|Github: Plataforma utilizada na hospedagem do repositório do projeto. Utilizada para a exposição do nosso projeto.|
+|<img src="../Img/JavaScript.svg"  width="250" />|JavaScript: Também é uma linguagem de alto nível desempenha um papel crucial na criação de interatividade em páginas da web, permitindo a manipulação dinâmica do conteúdo e o controle do comportamento das páginas no navegador do usuário. Foi utilizada para desenvolver o site.|
+| <img src="../Img/HTML.svg" width="250" /> |HTML: HyperText Markup Language é uma linguagem de marcação, ele permite inserir o conteúdo e estabelecer a estrutura básica de um website.|| 
+|<img src="../Img/CSS.svg"  width="250" />|CSS: Cascading Style Sheets é uma linguagem de estilo utilizada em conjunto com HTML para controlar a aparência e o design de páginas da web. Ele permite definir estilos, como cores, fontes, margens e tamanhos.|
+|<img src="../Img/Git.svg"  width="250" />|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
+|<img src="../Img/Github-Dark.svg"  width="250"/>|Github: Plataforma utilizada na hospedagem do repositório do projeto. Utilizada para a exposição do nosso projeto.|
 
 ## Contribuições Pessoais
 
