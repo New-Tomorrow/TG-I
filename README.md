@@ -3,11 +3,11 @@
 ## Introdução
 
 
-
+<div align="left">
+<img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/c4b33c18-baea-4a21-8a5e-bdc0ffc3586a" width="200px" />
+</div>
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. Jessen Vidal, atualmente cursando o 5º semestre, e comecei minha jornada nessa instituição com um desejo de explorar e aprender sobre o mundo da tecnologia. Desde o início da minha trajetória acadêmica, tenho absorvido conhecimento, enfrentado desafios com os APIS e me envolvido ativamente nesses projetos que moldaram minha paixão pelo desenvolvimento de sistemas.
-
-
 
 ## Contatos
 
@@ -21,7 +21,10 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. 
 
 ## Meus Projetos
 
-### Equipe Fatech em 2021-2  
+### Equipe em 2021-2  
+<div align="center">
+<img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/624b1790-2a8d-4c5c-b12f-24ed25dafcdc" width="400px" />
+</div>
 
 ## Visão do Projeto 
 
