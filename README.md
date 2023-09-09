@@ -29,7 +29,7 @@
 
 |Período	|Empresa Parceira|
 | ----------------- | ----------------- |
-| <a href="">**1° Semestre**|	Cliente Interno|
+| <a href="https://github.com/New-Tomorrow/TG-I/tree/main/Portfolio">**1° Semestre**|	Cliente Interno|
 |2° Semestre	|	Pro4Tech|
 |3° Semestre	|	Embraer|
 |4° Semestre	|	IonicHealth|
