@@ -7,7 +7,13 @@
 <img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/c4b33c18-baea-4a21-8a5e-bdc0ffc3586a" width="200px" />
 </div>
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. Jessen Vidal, atualmente cursando o 5º semestre, e comecei minha jornada nessa instituição com um desejo de explorar e aprender sobre o mundo da tecnologia. Desde o início da minha trajetória acadêmica, tenho absorvido conhecimento, enfrentado desafios com os APIS e me envolvido ativamente nesses projetos que moldaram minha paixão pelo desenvolvimento de sistemas.
+
+
+<div>
+   <img align="left">
+   Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. Jessen Vidal, atualmente cursando o 5º semestre, e comecei minha jornada nessa instituição com um desejo de explorar e aprender sobre o mundo da tecnologia. Desde o início da minha trajetória acadêmica, tenho absorvido conhecimento, enfrentado desafios com os APIS e me envolvido ativamente nesses projetos que moldaram minha paixão pelo desenvolvimento de sistemas.  
+</div>
+
 
 ## Contatos
 
@@ -21,7 +27,15 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. 
 
 ## Meus Projetos
 
-### Equipe em 2021-2  
+|Período	|Empresa Parceira|
+| ----------------- | ----------------- |
+| <a href="">**1° Semestre**|	Cliente Interno|
+|2° Semestre	|	Pro4Tech|
+|3° Semestre	|	Embraer|
+|4° Semestre	|	IonicHealth|
+|5° Semestre	|	Imagem|
+
+## Equipe em 2021-2  
 <div align="center">
 <img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/624b1790-2a8d-4c5c-b12f-24ed25dafcdc" width="400px" />
 </div>
@@ -42,7 +56,6 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 
 ![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
 </br>
-
 
 
 ### Link do projeto
@@ -70,20 +83,20 @@ Durante o processo de construção do projeto, concentrei meus esforços na tare
 
 ### Hard Skills
 
-• Raspagem das URLs dos  API's da FATEC SJC  em Python
-
-• Clonagem dos API’s da FATEC SJC em Python
-
-• Desenvolvimento do website em HTML
-
-• Layout do website em linguagem CSS
-
-• Manual de instalação GitHub
+- Raspagem das URLs dos  API's da FATEC SJC  em Python
+  
+- Clonagem dos API’s da FATEC SJC em Python
+  
+- Desenvolvimento do website em HTML
+  
+- Layout do website em linguagem CSS
+  
+- Manual de instalação GitHub
 
 ### Soft Skills
 
-• Gestão de Tempo: Utilizada para a otimização e a alocação de tempo e recursos planejando tarefas com prazos e metas.
+- Gestão de Tempo: Utilizada para a otimização e a alocação de tempo e recursos planejando tarefas com prazos e metas.
 
-• Comunicação: Foi necessário para evitar mal-entendidos e manter todos alinhados com o objetivo principal do projeto.
+- Comunicação: Foi necessário para evitar mal-entendidos e manter todos alinhados com o objetivo principal do projeto.
 
-• Trabalho em Equipe: Envolve a colaboração de pessoas com diferentes habilidades e experiências para alcançar o objetivo comum.
+- Trabalho em Equipe: Envolve a colaboração de pessoas com diferentes habilidades e experiências para alcançar o objetivo comum.
