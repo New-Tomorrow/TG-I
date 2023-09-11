@@ -1,6 +1,8 @@
 ## Equipe em 2021-2  
 <div align="center">
-<img src="https://github.com/New-Tomorrow/TG-I/assets/89146258/624b1790-2a8d-4c5c-b12f-24ed25dafcdc" width="400px" />
+<a href="https://github.com/Grupo-4-Fatech/API-1Semestre">
+  <img src="../Img/Fatech.png" alt="GitHub" width="400">
+</a>
 </div>
 
 ## Visão do Projeto 
@@ -21,8 +23,15 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 </br>
 
 
-### Link do projeto
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grupo-4-Fatech/API-1Semestre)
+## Link para Acessar o Projeto
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grupo-4-Fatech/API-1Semestre) -->
+
+<!-- [![GitHub](../Img/Fatech.png )](https://github.com/Grupo-4-Fatech/API-1Semestre) -->
+
+
+<a href="https://github.com/Grupo-4-Fatech/API-1Semestre">
+  <img src="../Img/GitHub.svg" alt="GitHub" width="120">
+</a>
 
 
 ## Tecnologias Utilizadas
