@@ -24,10 +24,6 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 
 
 ## Link para Acessar o Projeto
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grupo-4-Fatech/API-1Semestre) -->
-
-<!-- [![GitHub](../Img/Fatech.png )](https://github.com/Grupo-4-Fatech/API-1Semestre) -->
-
 
 <a href="https://github.com/Grupo-4-Fatech/API-1Semestre">
   <img src="../Img/GitHub.svg" alt="GitHub" width="120">
