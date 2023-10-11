@@ -14,7 +14,6 @@ A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pe
 E nesse 1º semestre o projeto integrador desenvolvido  com um cliente interno, sendo um dos professores.
 
 
-
 ## Visão do Projeto 
 
 O objetivo era fazer um site que permitisse visualizar e pesquisar de forma simples os outros projetos desenvolvidos na instituição, desse da implementação do projeto integrador. Mas o link do GitHub das equipes estava somente disponível no YouTube, o nosso cliente não possuía controle sobre eles e muitos estavam sendo perdidos com o passar do tempo. 
@@ -44,7 +43,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 ## Tecnologias Utilizadas
 
 |Tecnologia	|Uso no Projeto|
-| :---: | :--- | 
+| :---: | :---: | 
 | <img src="../Img/Python-Dark.svg" width="50">     | Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
 |<img src="../Img/JavaScript.svg"  width="50" />|JavaScript: Foi utilizada para desenvolver o site.|
 | <img src="../Img/HTML.svg" width="50" /> |HTML: Linguagem utilizada para a criação das telas || 
@@ -59,16 +58,12 @@ Durante o processo de construção do projeto, concentrei meus esforços na tare
 
 ### Hard Skills
 
-<div align="center">
-
 |Tecnologia/Metodologia|Classificação|
 | :---: | :---: | 
 |Python|★★★☆☆|
 |JavaScript	|★★★☆☆|
 |HTML/CSS|★★★☆☆|
 |Git / Github|★★★★☆|
-
-</div>
 
 <!-- 
 - Raspagem das URLs dos  API's da FATEC SJC  em Python: Sei fazer com ajuda.
