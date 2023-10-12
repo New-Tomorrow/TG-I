@@ -21,7 +21,7 @@ O objetivo era fazer um site que permitisse visualizar e pesquisar de forma simp
 Na época cada equipe fazia um vídeo explicando qual foi a solução para atender o problema proposto, e o link do GitHub do projeto era colocado na descrição do vídeo. A solução seria fazer a raspagens de todos os links do GitHub que estava na descrição do vídeo do YouTube e depois fazer a clonagem dos repositórios dos projetos anteriores da Fatec de forma automatizada .
 
 ## Demonstração do projeto
-<h3>
+
 <details>
 <summary><b>Raspagem de dados </b></summary>
   <br align="center">
@@ -30,8 +30,6 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
     </tr>
 </details>
 
-
-<h3>
 <details>
 <summary><b>Clonagem dos Gits</b></summary>
   <br align="center">
