@@ -26,7 +26,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Raspagem de dados </b></summary>
   <br align="center">
     <tr>
-     <img src="https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif"/>
+     <img src="../Img/Raspagem de Dados.gif"/>
     </tr>
 </details>
 
@@ -36,7 +36,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Clonagem dos Gits</b></summary>
   <br align="center">
     <tr>
-     <img src="https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif"/>
+     <img src="../Img/Clonagem dos Gits.gif"/>
     </tr>
 </details>
 
