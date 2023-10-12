@@ -26,7 +26,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Raspagem de dados </b></summary>
   <br align="center">
     <tr>
-     <img src="https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif"/>
+     <img src="../Img/primeiro/Raspagem de Dados.gif"/>
     </tr>
 </details>
 
@@ -34,7 +34,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Clonagem dos Gits</b></summary>
   <br align="center">
     <tr>
-     <img src="https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif"/>
+     <img src="../Img/primeiro/Clonagem dos Gits.gif"/>
     </tr>
 </details>
 
@@ -53,7 +53,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 |<img src="https://skillicons.dev/icons?i=py" height="50">| Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
 |<img src="https://skillicons.dev/icons?i=js" height="50">|JavaScript: Foi utilizada para desenvolver o site.|
 |<img src="https://skillicons.dev/icons?i=html" height="50">|HTML: Linguagem utilizada para a criação das telas. || 
-|<img src="https://skillicons.dev/icons?i=css" height="50">|CSS: Utilizado para estilização das telas.|
+|<img src="https://skillicons.dev/icons?i=css" height="50">|Utilizada para estilização e formatação de páginas da web. |
 |<img src="https://skillicons.dev/icons?i=git" height="50">|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
 |<img src="https://skillicons.dev/icons?i=github" height="50">|Github: Plataforma utilizada na hospedagem do repositório do projeto.|
 |<img src="https://skillicons.dev/icons?i=discord" height="50">|Discord: Plataforma utilizada para comunicar e fazer reuniões pela equipe. |
