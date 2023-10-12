@@ -21,17 +21,25 @@ O objetivo era fazer um site que permitisse visualizar e pesquisar de forma simp
 
 Na época cada equipe fazia um vídeo explicando qual foi a solução para atender o problema proposto, e o link do GitHub do projeto era colocado na descrição do vídeo. A solução seria fazer a raspagens de todos os links do GitHub que estava na descrição do vídeo do YouTube e depois fazer a clonagem dos repositórios dos projetos anteriores da Fatec de forma automatizada .
 
-### Raspagem de Dados
-</br>
+## Demonstração do projeto
+<h3>
+<details>
+<summary><b>Raspagem de dados </b></summary>
+  <br align="center">
+    <tr>
+     <img src="https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif"/>
+    </tr>
+</details>
 
-![raspagem](https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif)
-</br>
 
-### Clonagem dos Gits
-</br>
-
-![clonagem](https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif)
-</br>
+<h3>
+<details>
+<summary><b>Clonagem dos Gits</b></summary>
+  <br align="center">
+    <tr>
+     <img src="https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif"/>
+    </tr>
+</details>
 
 
 ## Link para Acessar o Projeto
@@ -44,22 +52,28 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 ## Tecnologias Utilizadas
 
 |Tecnologia	|Uso no Projeto|
-| :---: | :--- | 
-| <img src="../Img/Python-Dark.svg" width="50">     | Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
-|<img src="../Img/JavaScript.svg"  width="50" />|JavaScript: Foi utilizada para desenvolver o site.|
-| <img src="../Img/HTML.svg" width="50" /> |HTML: Linguagem utilizada para a criação das telas || 
-|<img src="../Img/CSS.svg"  width="50" />|CSS: Utilizado para estilização das telas.|
-|<img src="../Img/Git.svg"  width="50" />|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
-|<img src="../Img/Github-Dark.svg"  width="50"/>|Github: Plataforma utilizada na hospedagem do repositório do projeto.|
+| :---: | :---: | 
+| <img src="https://skillicons.dev/icons?i=py" height="50">     | Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
+|<img src="https://skillicons.dev/icons?i=js" height="50">|JavaScript: Foi utilizada para desenvolver o site.|
+| <img src="https://skillicons.dev/icons?i=html" height="50">|HTML: Linguagem utilizada para a criação das telas. || 
+|<img src="https://skillicons.dev/icons?i=css" height="50">|CSS: Utilizado para estilização das telas.|
+|<img src="https://skillicons.dev/icons?i=git" height="50">|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
+|<img src="https://skillicons.dev/icons?i=github" height="50">|Github: Plataforma utilizada na hospedagem do repositório do projeto.|
+|<img src="https://skillicons.dev/icons?i=discord" height="50">| Discord:Plataforma utilizada para comunicar e fazer reuniões pela equipe. |
+
+
+
+
+
+
+
+
 
 ## Contribuições Pessoais
 
 Durante o processo de construção do projeto, concentrei meus esforços na tarefa crítica de realizar a raspagem de dados. Essa etapa envolveu a obtenção dos links dos repositórios no GitHub das equipes, que estavam disponíveis apenas no YouTube, desempenhei um papel ativo na pesquisa e clonagem desses repositórios, utilizando a linguagem de programação Python. Além da minha contribuição na parte técnica, também contribui na documentação do projeto.
 
-
 ### Hard Skills
-
-<div align="center">
 
 |Tecnologia/Metodologia|Classificação|
 | :---: | :---: | 
@@ -68,22 +82,11 @@ Durante o processo de construção do projeto, concentrei meus esforços na tare
 |HTML/CSS|★★★☆☆|
 |Git / Github|★★★★☆|
 
-</div>
-
-<!-- 
-- Raspagem das URLs dos  API's da FATEC SJC  em Python: Sei fazer com ajuda.
-  
-- Clonagem dos API’s da FATEC SJC em Python: Sei fazer com ajuda.
-
-- Criação de páginas em HTML e aplicação de estilos com CSS: Sei fazer com autonomia.
-
-  
-- Manual de instalação GitHub: Sei fazer com autonomia. -->
 
 ### Soft Skills
 
-- Gestão de Tempo: Utilizada para a otimização e a alocação de tempo e recursos planejando tarefas com prazos e metas.
+- Gestão de Tempo: Nas reuniões, estabelecemos prazos e metas para cada tarefa, garantindo assim um desenvolvimento eficaz.
 
-- Comunicação: Foi necessário para evitar mal-entendidos e manter todos alinhados com o objetivo principal do projeto.
+- Comunicação: Utilizamos o chat do Discord para notificações relacionadas ao projeto, com o propósito de manter o foco principal.
 
-- Trabalho em Equipe: Envolve a colaboração de pessoas com diferentes habilidades e experiências para alcançar o objetivo comum.
+- Trabalho em Equipe: Empregamos o Discord como plataforma de controle para conduzir reuniões e promover o adiantamento do projeto de maneira coordenada e eficiente.
