@@ -26,7 +26,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Raspagem de dados </b></summary>
   <br align="center">
     <tr>
-     <img src="../Img/Raspagem de Dados.gif"/>
+     <img src="https://user-images.githubusercontent.com/89141910/136674359-41875f57-c704-4cb6-819c-11c52b2e17fc.gif"/>
     </tr>
 </details>
 
@@ -36,7 +36,7 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 <summary><b>Clonagem dos Gits</b></summary>
   <br align="center">
     <tr>
-     <img src="../Img/Clonagem dos Gits.gif"/>
+     <img src="https://user-images.githubusercontent.com/89141910/136674362-4b9ca8d4-1c9b-47e6-a57f-b3e27b7a93b6.gif"/>
     </tr>
 </details>
 
@@ -52,12 +52,14 @@ Na época cada equipe fazia um vídeo explicando qual foi a solução para atend
 
 |Tecnologia	|Uso no Projeto|
 | :---: | :--- | 
-| <img src="../Img/Python-Dark.svg" width="50">     | Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
-|<img src="../Img/JavaScript.svg"  width="50" />|JavaScript: Foi utilizada para desenvolver o site.|
-| <img src="../Img/HTML.svg" width="50" /> |HTML: Linguagem utilizada para a criação das telas || 
-|<img src="../Img/CSS.svg"  width="50" />|CSS: Utilizado para estilização das telas.|
-|<img src="../Img/Git.svg"  width="50" />|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
-|<img src="../Img/Github-Dark.svg"  width="50"/>|Github: Plataforma utilizada na hospedagem do repositório do projeto.|
+|<img src="https://skillicons.dev/icons?i=py" height="50">| Python:  Utilizada para a criação do código, na parte de clonagem e raspagem. |
+|<img src="https://skillicons.dev/icons?i=js" height="50">|JavaScript: Foi utilizada para desenvolver o site.|
+|<img src="https://skillicons.dev/icons?i=html" height="50">|HTML: Linguagem utilizada para a criação das telas. || 
+|<img src="https://skillicons.dev/icons?i=css" height="50">|CSS: Utilizado para estilização das telas.|
+|<img src="https://skillicons.dev/icons?i=git" height="50">|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
+|<img src="https://skillicons.dev/icons?i=github" height="50">|Github: Plataforma utilizada na hospedagem do repositório do projeto.|
+|<img src="https://skillicons.dev/icons?i=discord" height="50">|Discord: Plataforma utilizada para comunicar e fazer reuniões pela equipe. |
+
 
 ## Contribuições Pessoais
 
@@ -72,17 +74,6 @@ Durante o processo de construção do projeto, concentrei meus esforços na tare
 |HTML/CSS|★★★☆☆|
 |Git / Github|★★★★☆|
 
-</div>
-
-<!-- 
-- Raspagem das URLs dos  API's da FATEC SJC  em Python: Sei fazer com ajuda.
-  
-- Clonagem dos API’s da FATEC SJC em Python: Sei fazer com ajuda.
-
-- Criação de páginas em HTML e aplicação de estilos com CSS: Sei fazer com autonomia.
-
-  
-- Manual de instalação GitHub: Sei fazer com autonomia. -->
 
 ### Soft Skills
 
