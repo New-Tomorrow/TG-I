@@ -80,7 +80,7 @@ O foco principal reside na unificação de todas as mensagens em um único banco
 |Tecnologia	|Uso no Projeto|
 | :---: | :--- | 
 |<img src="https://skillicons.dev/icons?i=java" height="50">|Java: Linguagem de programação utilizada no desenvolvimento do aplicativo desktop.|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" height="50">| IDE (Integrated Development Environment) utilizada para o desenvolvimento e programação do projeto. |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" height="50">| NetBeans: IDE (Integrated Development Environment) utilizada para o desenvolvimento e programação do projeto. |
 |<img src="https://skillicons.dev/icons?i=mysql" height="50">|MySQL: Sistema de gerenciamento de banco de dados utilizado para armazenamento dados.|
 |<img src="https://skillicons.dev/icons?i=azure" height="50">|Microsoft Azure: Utilizado para  hospedagem do  bancos de dados na nuvem.|
 |<img src="https://skillicons.dev/icons?i=git" height="50">|Git: Ferramenta de controle de versão utilizada para gerenciar o código do projeto.|
@@ -90,6 +90,7 @@ O foco principal reside na unificação de todas as mensagens em um único banco
 
 ## Contribuições Pessoais
 
+Neste projeto, assumi a responsabilidade de elaborar e planejar o escopo do projeto, além de encarregar das funções de alteração utilizando a IDE NetBeans. Também contribuí ativamente para a documentação do projeto.
 
 
 ### Hard Skills
@@ -97,10 +98,18 @@ O foco principal reside na unificação de todas as mensagens em um único banco
 |Tecnologia/Metodologia|Classificação|
 | :---: | :---: | 
 |Java|★★★☆☆|
-|NetBeans|★★★★☆|
+|NetBeans|★★★☆☆|
 |Mysql|★★★★☆|
 |Azure|★★★★☆|
 |Git / Github|★★★★☆|
 
 
 ### Soft Skills
+
+- Comunicação: Utilizamos o chat do Discord para notificações relacionadas ao projeto, com o propósito de manter o foco principal.
+
+- Adaptabilidade:  Com o decorrer desse projeto tive a infelicidade de ficar sem um computador pessoal, realizando minha contribuição na biblioteca da faculdade, assegurando assim a entrega da minha parte no projeto.
+
+- Gestão de Tempo: Nas reuniões, estabelecemos prazos e metas para cada tarefa, garantindo assim um desenvolvimento eficaz.
+
+
