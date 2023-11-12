@@ -21,7 +21,7 @@
 
 ## Meus Principais Conhecimentos
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,mysql,postgres,html,css,react,github,dark)
+![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,mysql,postgres,mongodb,html,css,react,github,dark)
 
 
 ## Meus Projetos
