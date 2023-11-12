@@ -92,7 +92,7 @@ O foco principal reside na unificação de todas as mensagens em um único banco
 
 ## Contribuições Pessoais
 
-Neste projeto, assumi a responsabilidade de elaborar e planejar o escopo do projeto, além de encarregar das funções de alteração utilizando a IDE NetBeans. Também contribuí ativamente para a documentação do projeto.
+Neste projeto, assumi a responsabilidade de elaborar e planejar o escopo do projeto, além de encarregar das funções de alteração do Usuário e do Grupo, bem como a consulta de Usuários utilizando a IDE NetBeans.Também contribuí ativamente para a documentação do projeto.
 
 
 ### Hard Skills
