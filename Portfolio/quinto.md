@@ -17,13 +17,7 @@
 
 ## Demonstração do projeto
 
-<details>
-<summary><b>CRUD dos Usuários e Equipamentos</b></summary>
-  <br align="center">
-    <tr>
-     <img src="../Img/quinto/crud.mp4"/>
-    </tr>
-</details>
+##### Para assistir os gif, clique no título abaixo que se interessar.
 
 <details>
 <summary><b>Login</b></summary>

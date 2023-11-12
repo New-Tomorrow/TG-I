@@ -17,6 +17,8 @@ O propósito deste projeto é otimizar o cálculo da distância necessária para
 
 ## Demonstração do projeto
 
+##### Para assistir os gif, clique no título abaixo que se interessar.
+
 <details>
 <summary><b>Login Cliente</b></summary>
   <br align="center">

@@ -18,6 +18,8 @@ O foco principal reside na unificação de todas as mensagens em um único banco
 
 ## Demonstração do projeto
 
+##### Para assistir os gif, clique no título abaixo que se interessar.
+
 <details>
 <summary><b>Login </b></summary>
   <br align="center">

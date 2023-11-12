@@ -19,6 +19,8 @@ Além disso, a aplicação permite hierarquias de acesso, com diferentes privil�
 
 ## Demonstração do projeto
 
+##### Para assistir os gif, clique no título abaixo que se interessar.
+
 <details>
 <summary><b>Cadastro de Ticket</b></summary>
   <br align="center">
