@@ -10,6 +10,7 @@
 ## Parceiro Acadêmico
 
 
+
 ## Visão do Projeto 
 
 
@@ -17,17 +18,83 @@
 ## Demonstração do projeto
 
 <details>
-<summary><b></b></summary>
+<summary><b>CRUD dos Usuários e Equipamentos</b></summary>
   <br align="center">
     <tr>
-     <img src=""/>
+     <img src="../Img/quinto/crud.mp4"/>
+    </tr>
+</details>
+
+<details>
+<summary><b>Login</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/login.gif"/>
     </tr>
 </details>
 
 
+<details>
+<summary><b>Editar Equipamento</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/editar_equipamento.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b>Editar Perfil</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/tela_perfil.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b>Cadastro de Tipo de Usuários </b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/cadastro_tipo_user.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b>Diferença de Acesso</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/diferenca_acesso.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b>Mapa</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/mapa.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b>Filtro de Bunca do Mapa</b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/filtro.gif">
+    </tr>
+</details>
+
+<details>
+<summary><b> Localização em Tempo Real </b></summary>
+  <br align="center">
+    <tr>
+     <img src="../Img/quinto/localizacao_atual.gif">
+    </tr>
+</details>
+
+
+
 ## Link para Acessar o Projeto
 
-<a href="">
+<a href="https://github.com/4-Fatech/API5Semestre">
   <img src="../Img/GitHub.svg" alt="GitHub" width="120">
 </a>
 
