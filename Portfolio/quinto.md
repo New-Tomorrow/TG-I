@@ -110,8 +110,7 @@ Essa ferramenta desempenha um papel crucial nos processos de manutenção, garan
 
 ## Contribuições Pessoais
 
-
-
+Neste projeto, desempenhei um papel central no desenvolvimento do Backend, onde criei as funcionalidades CRUD (Create, Read, Update, Delete)  para usuários e equipamentos. Além disso, fui responsável por fazer as funções de recuperação de senha por e-mail e SMS, garantindo uma abordagem segurança utilizando a autenticação de dois fatores, criando um código para verificar a identidade do usuário no aplicativo garantindo assim a segurança do sistema. Também fui encarregado de estabelecer e registrar logs para usuários e equipamentos, contribuindo para a transparência e monitoramento eficaz do sistema.
 
 ### Hard Skills
 
@@ -124,6 +123,14 @@ Essa ferramenta desempenha um papel crucial nos processos de manutenção, garan
 |Git / Github|★★★★☆|
 
 ### Soft Skills
+
+- Curiosidade: Investiguei diversas abordagens para implementar a função de recuperação de senha do usuário, procurando aquela que melhor se integraria ao contexto e requisitos do nosso projeto.
+
+- Gestão de Tempo: Durante nossas reuniões, meticulosamente definimos prazos e metas específicas para cada tarefa, assegurando um desenvolvimento eficaz e alinhado com os objetivos do projeto.
+
+
+- Pensamento Crítico: Ao longo do processo, adotei uma abordagem cautelosa, explorando as alternativas mais seguras para conduzir as tarefas, garantindo a integridade e segurança do sistema.
+
 
 
 

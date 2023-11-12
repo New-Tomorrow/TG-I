@@ -129,4 +129,4 @@ Neste projeto, assumi a responsabilidade pela administração o banco de dados M
 
 - Comunicação: Utilizamos o chat do Discord para notificações relacionadas ao projeto, com o propósito de manter o foco principal.
 
- - Gestão de tempo: Durante nossas reuniões, estabelecemos prazos e metas claras para cada tarefa, garantindo, desse modo, um desenvolvimento eficaz e alinhado com os propósitos do projeto.
+- Gestão de tempo: Durante nossas reuniões, estabelecemos prazos e metas claras para cada tarefa, garantindo, desse modo, um desenvolvimento eficaz e alinhado com os propósitos do projeto.

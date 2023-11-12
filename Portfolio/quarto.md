@@ -207,7 +207,7 @@ Neste projeto, minha responsabilidade abrangeu a estruturação do backend, a cr
 
 ### Soft Skills
 
-- Planejamento: Fui responsável por desenvolver um plano de projeto, abrangendo marcos e prazos estrategicamente definidos, assegurando assim a bem-sucedida conclusão dentro do cronograma estipulado.
+- Planejamento: Desenvolvi um plano de projeto pessoal, incluindo  marcos e prazos estrategicamente definidos, garantindo a conclusão bem-sucedida no cronograma estabelecido.
 
 - Resiliência: Enfrentei desafios e obstáculos persistentes em um projeto crucial, demonstrando perseverança, mantendo o foco e a determinação ao superá-los.
 
