@@ -76,8 +76,6 @@ Durante o processo de construção do projeto, concentrei meus esforços na tare
 
 ### Soft Skills
 
-- Gestão de Tempo: Nas reuniões, estabelecemos prazos e metas para cada tarefa, garantindo assim um desenvolvimento eficaz.
-
 - Comunicação: Utilizamos o chat do Discord para notificações relacionadas ao projeto, com o propósito de manter o foco principal.
 
 - Trabalho em Equipe: Empregamos o Discord como plataforma de controle para conduzir reuniões e promover o adiantamento do projeto de maneira coordenada e eficiente.
