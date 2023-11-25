@@ -108,10 +108,11 @@ Neste projeto, assumi a responsabilidade de elaborar e planejar o escopo do proj
 
 ### Soft Skills
 
-- Comunicação: Utilizamos o chat do Discord para notificações relacionadas ao projeto, com o propósito de manter o foco principal.
+- Gestão de Tempo: Nas reuniões, estabelecemos prazos e metas para cada tarefa, garantindo assim um desenvolvimento eficaz.
 
 - Adaptabilidade:  Com o decorrer desse projeto tive a infelicidade de ficar sem um computador pessoal, realizando minha contribuição na biblioteca da faculdade, assegurando assim a entrega da minha parte no projeto.
 
-- Gestão de Tempo: Nas reuniões, estabelecemos prazos e metas para cada tarefa, garantindo assim um desenvolvimento eficaz.
+
+
 
 
