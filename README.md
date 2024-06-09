@@ -34,6 +34,7 @@
 |<a href="https://github.com/New-Tomorrow/TG-I/tree/main/Portfolio/terceiro.md">**3° Semestre**	|2°S 2022   |Embraer   |O projeto tem como objetivo automatizar o cálculo da distância mínima necessária para um pouso seguro de aeronave, fornecendo aos pilotos uma interface intuitiva e amigável para essa finalidade.
 |<a href="https://github.com/New-Tomorrow/TG-I/tree/main/Portfolio/quarto.md">**4° Semestre**	|1°S 2023   |IonicHealth   |Este projeto desenvolve uma aplicação web que permite criar e gerenciar tickets ( hotfix e feature ) com prioridades e departamentos específicos, além de gerenciar usuários com diferentes níveis de acesso.
 |<a href="https://github.com/New-Tomorrow/TG-I/tree/main/Portfolio/quinto.md">**5° Semestre**	|2°S 2023   |Imagem   |O projeto concentra-se na criação de um aplicativo móvel destinado a empresas de infraestrutura, com funcionalidades para administrar eficazmente os equipamentos utilizados em campo.
+|<a href="https://github.com/New-Tomorrow/TG-I/tree/main/Portfolio/sexto.md">**6° Semestre**	|1°S 2024  |Altave   | O objetivo e desenvolver uma aplicação para monitorar e contabilizar o fluxo de pessoas em redzones. Com uma interface amigável, para pode visualizar em tempo real e poder gerar relatórios detalhados sobre a atividade nessas áreas.
 
 
 
