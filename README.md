@@ -8,7 +8,7 @@
 
 <div>
    <img align="left">
-   Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. Jessen Vidal, atualmente cursando o 5º semestre, e comecei minha jornada nessa instituição com um desejo de explorar e aprender sobre o mundo da tecnologia. Desde o início da minha trajetória acadêmica, tenho absorvido conhecimento, enfrentado desafios com os APIS e me envolvido ativamente nesses projetos que moldaram minha paixão pelo desenvolvimento de sistemas.  
+   Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC - Prof. Jessen Vidal, atualmente cursando o 6º semestre, e comecei minha jornada nessa instituição com um desejo de explorar e aprender sobre o mundo da tecnologia. Desde o início da minha trajetória acadêmica, tenho absorvido conhecimento, enfrentado desafios com os APIS e me envolvido ativamente nesses projetos que moldaram minha paixão pelo desenvolvimento de sistemas.  
 </div>
 
 ## Contatos
